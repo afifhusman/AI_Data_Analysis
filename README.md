@@ -1,7 +1,7 @@
 #Welcome
 Github Repo For PruBSN AI for Data Analysis Training
 
-#Data Cleaning
+# Data Cleaning
 ## 1. Download Dataset Sample
 
 Download sample dataset from here [unclean_data.csv](https://github.com/afifhusman/AI_Data_Analysis/blob/main/Sample%20Data/unclean_data.csv) \
@@ -12,9 +12,14 @@ Download sample dataset from here [unclean_data.csv](https://github.com/afifhusm
 ## 2. Opening Data in Power Query
 <img src="Images/fig2.png" width="350" height="265" />
 
-<br/><br/>
+<br/>
 
-## 2. Power Query Data Cleaning Cheatsheet
+## 2. Opening Data in OpenRefine
+<img src="Images/fig3.png" width="350" height="265" />
+
+<br/>
+
+## 3. Power Query Data Cleaning Cheatsheet
 <br/>
 
 | Task   | Key  |
@@ -32,3 +37,7 @@ Download sample dataset from here [unclean_data.csv](https://github.com/afifhusm
 | Remove Extra Space| Transform -> Format -> Trim  |
 | Remove Line Breaks| Transform -> Format -> Clean  |
 | Remove Line Breaks| Home  -> Remove Rows -> Remove Errors  |
+
+<br/><br/>
+
+## 4. Power Query Data Cleaning Cheatsheet
