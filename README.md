@@ -14,12 +14,12 @@ Download sample dataset from here [unclean_data.csv](https://github.com/afifhusm
 
 <br/>
 
-## 2. Opening Data in OpenRefine
-<img src="Images/fig3.png" width="350" height="265" />
+## 3. Opening Data in OpenRefine
+<img src="Images/fig3.png" width="500" height="445" />
 
 <br/>
 
-## 3. Power Query Data Cleaning Cheatsheet
+## 4. Power Query Data Cleaning Cheatsheet
 <br/>
 
 | Task   | Key  |
@@ -38,6 +38,8 @@ Download sample dataset from here [unclean_data.csv](https://github.com/afifhusm
 | Remove Line Breaks| Transform -> Format -> Clean  |
 | Remove Line Breaks| Home  -> Remove Rows -> Remove Errors  |
 
-<br/><br/>
 
-## 4. Power Query Data Cleaning Cheatsheet
+## 5. OpenRefine Specifics
+
+1. Faceting
+2. Clustering
